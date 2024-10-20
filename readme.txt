@@ -1,14 +1,1 @@
-START
-
-PRINT "Masukkan bilangan bulat: "
-READ bilangan
-
-IF bilangan > 0 THEN
-    PRINT "Bilangan tersebut adalah positif."
-ELSE IF bilangan < 0 THEN
-    PRINT "Bilangan tersebut adalah negatif."
-ELSE
-    PRINT "Bilangan tersebut adalah nol."
-ENDIF
-
-END
+https://drive.google.com/file/d/1o6QLPmXwChcpfFWVIuvqbNxAIui7arDs/view?usp=sharing
